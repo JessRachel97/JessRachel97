@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JessRachel97
-- 👀 I’m interested in physics, computer science, machine learning, and solving problems!
+- 👀 I’m interested in physics, computer science, and solving problems!
 - 📫 How to reach me ... jessie dot craven at gmail dot com
 
 <!---
